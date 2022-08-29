@@ -1,0 +1,2 @@
+# safira
+open mind
